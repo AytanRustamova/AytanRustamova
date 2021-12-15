@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/aytan rustamova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aytan rustamova" height="30" width="40" /></a>
 </p>
 
-[Uploading 68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d417974616e52757374616d6f7661267468656d653d6461726b.svg…]()
+[!Uploading 68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d417974616e52757374616d6f7661267468656d653d6461726b.svg…]()
 
 
 <br>
