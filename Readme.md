@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aytan Rustamova</h1>
-<h3 align="center">I'm back-end developer</h3>
+<h3 align="center">I'm front-end developer</h3>
 
 - 🔭 I’m currently working on [Python/Django](https://github.com/AytanRustamova/PragmatechPythonProject)
 
